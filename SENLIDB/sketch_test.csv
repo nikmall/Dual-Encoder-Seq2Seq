@@ -1,0 +1,297 @@
+sql
+select top alias.col alias.col from table where table.viewcoualias.colt > alias.col order by table.viewcoualias.colt desc
+"select avg(alias.col(alias.col,alias.col, alias.col())) from table;"
+select alias.col from table
+select top alias.col alias.col from table where displayalias.colame like alias.col
+select alias.col from table
+select alias.col from table where tealias.colt=alias.col
+select alias.col from table where alias.col<alias.col
+"select alias.col, alias.col from table where alias.col is not null"
+"select alias.col, alias.col from table where posttypealias.col = alias.col order by alias.col"
+"select alias.col, name from table where name=alias.col"
+"select alias.col, alias.col from table p ialias.colalias.coler joialias.col table pt oalias.col alias.col = alias.col where alias.col = alias.col aalias.cold alias.col < alias.col"
+select count(*) from ( select alias.col from table u join table p on alias.col = alias.col where lower(alias.col) like alias.col and alias.col like alias.col group by alias.col having min(p.creationdate)>=alias.col )alias.col;
+"select top alias.col row_alias.columber() over(order by reputatioalias.col desc) as [#], id as [user lialias.colk], reputatioalias.col from table where lower(locatioalias.col) like x order by reputatioalias.col desc;"
+"select top alias.col u.displayalias.colame, alias.columber_of_aalias.colswers = coualias.colt(*), alias.col = sum(alias.col) from table u joialias.col table p oalias.col p.owalias.coleruserid = alias.col joialias.col table pp oalias.col p.parealias.coltid = alias.col joialias.col table pt oalias.col alias.col = alias.col joialias.col table t oalias.col alias.col = alias.col where t.tagalias.colame like alias.col aalias.cold p.creatioalias.coldate > (alias.col()alias.col) aalias.cold u.locatioalias.col like alias.col group by u.displayalias.colame order by alias.col desc;"
+select toalias(alias.col) alias.col from table as alias joialias.col table u oalias.col alias.col = alias.owalias.coleruserid
+"create table table (postid ialias.colt, totaltagcoualias.colt ialias.colt, alias.columtable ialias.colt) ialias.colsert table select table.id, sum(table.coualias.colt), coualias.colt(*) from table ialias.colalias.coler joialias.col table oalias.col table.postid = table.id ialias.colalias.coler joialias.col table oalias.col table.id = table.tagid where table.parealias.coltid is alias.colull group by table.id select top alias.col table.id, table.score as tablecore, table.viewcoualias.colt as views, table.aalias.colswercoualias.colt as aalias.colswers, table.commealias.coltcoualias.colt as commealias.colts, totaltagcoualias.colt, alias.columtable, table.reputatioalias.col as owalias.colerrep from table ialias.colalias.coler joialias.col table oalias.col table.id = table.owalias.coleruserid ialias.colalias.coler joialias.col table as ttc oalias.col alias.col = table.id where table.parealias.coltid is alias.colull aalias.cold table.creatioalias.coldate>=x aalias.cold table.creatioalias.coldate<=x"
+select top alias.col alias.col from table where table.viewcoualias.colt>alias.col order by table.viewcoualias.colt
+"select top alias.col alias.col, coualias.colt(alias.col) from table group by alias.col order by coualias.colt(alias.col) desc"
+select alias.col from table;
+select alias.col from table where alias.col=alias.col;
+"select top alias.col table.id, table.body from table where table.viewcoualias.colt>alias.col"
+"select row_number() over(order by alias.col desc) as [#], id as [user link], alias.col from table where (lower(location) like x or upper(location) like x ... or location like x or lower(location) like x ... or upper(location) like x ... or location like x) order by alias.col desc;"
+"select alias.col(day,lastaccessdate,getdate()),id from table"
+"select row_number() over(order by alias.col desc) as [#], id as [user link], alias.col from table where lower(location) like x or upper(location) like x ... or location like x and alias.col >= n order by alias.col desc;"
+select top alias.col alias.col from table where alias.col=alias.col
+select alias.col from table where alias.col >alias.col
+select top alias.col alias.col from table where body like x
+"select alias.col, alias.col(), alias.col()-alias.col from table where alias.col = alias.col ;"
+"select alias.col, views from table where views >n"
+"select alias.col, alias.col, alias.col from table u where alias.col like alias.col order by alias.col desc"
+select top alias.col alias.col from table order by viewcoualias.colt desc
+"select alias.col as table, alias.col from table m;"
+"select alias.col, alias.col from table"
+"select alias.col as alias.col, coualias.colt(alias.col) from table where posttypealias.col = alias.col aalias.cold lealias.col(body) <= alias.col aalias.cold (body like x) group by alias.col havialias.colg coualias.colt(alias.col) > alias.col order by coualias.colt(alias.col) desc;"
+select top alias.col alias.col from table where alias.col=alias.col aalias.cold reputatioalias.col > alias.col aalias.cold locatioalias.col like x ... aalias.cold displayalias.colame like x
+"select alias.col, alias.col, locatioalias.col, alias.col, coualias.colt(alias.col) as tablecoualias.colt from table a, table b where alias.col=alias.col aalias.cold alias.col>=alias.col group by alias.col, alias.col, locatioalias.col, alias.col order by alias.col desc"
+"select distinct top n title, body from table p inner join table pt on alias.col = alias.col inner join table t on alias.col = alias.col where alias.col in (alias.col)"
+select top alias.col alias.col from table
+"select alias.col(week, p.creationdate, getdate()) from table p"
+"select alias.col, posttypealias.col, alias.col, alias.col, owalias.coleruseralias.col from table where alias.col >= alias.col aalias.cold alias.col <= alias.col aalias.cold posttypealias.col=alias.col aalias.cold owalias.coleruseralias.col ialias.col (alias.colyz)"
+select alias.col from table where alias.col = alias.col aalias.cold alias.col=alias.col aalias.cold creatioalias.coldate > alias.col;
+select alias.col from table where alias.col like alias.col;
+"select top alias.col table.favoritecoualias.colt, table.tagalias.colame, table.coualias.colt from table joialias.col table oalias.col table.postid = table.id joialias.col table oalias.col table.id = table.tagid where table.table like alias.col ;"
+select alias.col from table where alias.col > alias.col order by alias.col;
+"select alias.col, accountalias.col, alias.col, alias.col, alias.col, location from table where alias.col in (alias.col) order by alias.col desc"
+select count(*) from table; select count(*) from table where answercount=n;
+select alias.col from table
+select alias.col as alias.col from table where body like x and creationdate >= x
+select top alias.col alias.col from table where alias.col like alias.col or alias.col like alias.col ... order by lealias.col(alias.col)
+"select top alias.col alias.col, displayalias.colame from table order by alias.colewalias.col()"
+select alias.col from table where alias.col = alias.col
+select alias.col from table;
+select alias.col from table
+select coualias.colt(*) from table where alias.col = alias.col;
+"select alias.col, alias.col from table where alias.col in (alias.col)"
+select alias.col from table where alias.col=alias.col;
+select count(*) from table
+select coualias.colt(alias.col) from table where alias.col = alias.col;
+select alias.col from table
+select coualias.colt(alias.col) from table where owalias.coleruseralias.col ialias.col (alias.col) as alias.col from table where alias.col > alias.col aalias.cold alias.col < alias.col group by owalias.coleruseralias.col )as alias.colewt where alias.colewt.alias.col > alias.col ) aalias.cold posttypealias.col=alias.col aalias.cold alias.col > alias.col aalias.cold alias.col < alias.col
+select alias.col from table where alias.col like alias.col
+"select alias.col, alias.col, count from table where count > n order by count desc;"
+select count(*) from table where alias.col like alias.col
+select alias.col from table where lower(alias.col) like alias.col
+selectalias.col from table where lower(location) like x and alias.col >= n order by alias.col desc;
+select alias.col from table where location like x and reputation > n
+"select distinct id, alias.col, creationdate from table where alias.col like alias.col"
+"select top alias.col owalias.colerdisplayalias.colame, creatioalias.coldate from table order by creatioalias.coldate asc"
+select top alias.col alias.col from table where alias.col = alias.col
+"select top alias.col table.id, table.reputatioalias.col, table.coualias.colt, table.viewcoualias.colt from table ialias.colalias.coler joialias.col table oalias.col table.id = table.owalias.coleruserid ialias.colalias.coler joialias.col table oalias.col table.postid = table.parealias.coltid ialias.colalias.coler joialias.col table oalias.col table.id = table.postid"
+select coualias.colt(*) as alias.col from table p joialias.col table t oalias.col alias.col = alias.col where alias.col = alias.col aalias.cold alias.col = alias.col
+select alias.col from table where alias.col = alias.col order by creatioalias.coldate desc
+"select alias.col, emailhash, alias.col from table"
+select top alias.col alias.col from table
+"select alias.col from table v, table p where alias.col = alias.col aalias.cold alias.col = coalias.colvert(date, v.creatioalias.coldate) aalias.cold alias.col = alias.col"
+"select alias.col, body from table where body like x order by alias.col"
+"select alias.col as alias.col, body, score from table where alias.col(body) > n"
+select alias.col from table as alias where alias.col=alias.col;
+"select row_number() over(order by alias.col desc) as [#], id as [user link], alias.col from table where lower(location) like x and alias.col >= n order by alias.col desc;"
+select alias.col from table;
+select count(*) from table
+"select top alias.col sum(alias.col) as totalalias.col, sum(alias.col)*alias.col/coualias.colt(alias.col) as avgalias.col, owalias.coleruseralias.col as useralias.colame, coualias.colt(alias.col) as alias.columtable from table group by owalias.coleruseralias.col order by sum(alias.col) desc;"
+"select top alias.col palias.col.score, palias.col.title, palias.col.body, palias.col.body from table palias.col joialias.col table palias.col oalias.col (palias.col.acceptedaalias.colswerid = palias.col.id) where palias.col.title like alias.col order by palias.col.score asc;"
+select alias.col from table where alias.col = alias.col
+select top alias.col alias.col from table where owalias.coleruserid=alias.col
+select coualias.colt(*) from table where table.viewcoualias.colt>alias.col aalias.cold table.viewcoualias.colt<alias.col
+select alias.col from table left join table on table.id=table.owneruserid
+select case when (alias.col not like alias.col) then (alias.col + alias.col) else alias.col end as alias.col from table where alias.col !=alias.col;
+select alias.col from table where alias.col like alias.col;
+"select alias.col, count(*) c from table p join table pt on alias.col = alias.col join table t on alias.col= alias.col where table like alias.col and alias.col >= alias.col and alias.col <= alias.col group by alias.col order by c desc"
+select alias.col from table where alias.col = alias.col
+"select row_number() over(order by alias.col desc) as [#], id as [user link], alias.col from table where (lower(location) like x or upper(location) like x ... or location like x or lower(location) like x ... or upper(location) like x ...) and alias.col >= n order by alias.col desc;"
+select top alias.col alias.col from table
+"select coualias.colt(*),alias.col from table where alias.col > alias.col group by alias.col"
+select count(*) from table
+"select top alias.col alias.col, alias.col, v.boualias.coltyamoualias.colt, v.creatioalias.coldate from table p ialias.colalias.coler joialias.col table v oalias.col alias.col = alias.col;"
+select alias.col from table
+"select distinct alias.col, tagname from table pt , table t where alias.col = alias.col and alias.col in (alias.col))"
+select alias.col from table where alias.col = alias.col
+select alias.col from table where lower(location) like lower(x) and displayname = x order by alias.col desc;
+"select top alias.col alias.col, body, alias.col, tags from table tablesample(alias.col rows) where alias.col <> alias.col"
+"select top alias.col alias.col as [post lialias.colk],body,favoritecoualias.colt,score,creatioalias.coldate,alias.col from table where alias.col like alias.col order by favoritecoualias.colt desc"
+select distinct(alias.col) from table order by alias.col
+select coualias.colt(*) from table where alias.col=alias.col;
+select alias.col from table where alias.col < alias.col
+"select top alias.col alias.col, alias.col, viewcoualias.colt, commealias.coltcoualias.colt from table where posttypealias.col = alias.col;"
+select alias.col from table where alias.col=alias.col;
+select coualias.colt(*) from table where table.viewcoualias.colt > alias.col
+select alias.col from table where name like (alias.col)
+"create table table (postid ialias.colt, viewcoualias.colt ialias.colt, alias.col ialias.colt, owalias.colerrep ialias.colt) ialias.colsert table select table.id, table.viewcoualias.colt, table.alias.col, table.reputatioalias.col from table ialias.colalias.coler joialias.col table oalias.col table.id = table.owalias.coleruserid select top alias.col alias.col, owalias.colerrep, table.coualias.colt as tagcoualias.colt, tagalias.colame from table vpr ialias.colalias.coler joialias.col table oalias.col table.postid = alias.col ialias.colalias.coler joialias.col table oalias.col table.id = table.tagid where viewcoualias.colt>alias.col"
+"select distinct alias.col , reputation, displayname, websiteurl, aboutme, views from table u inner join table c on alias.col = alias.col where alias.col like alias.col and c.tealias.colt like alias.col"
+"select top alias.col alias.col, displayalias.colame, reputatioalias.col, alias.col, locatioalias.col, creatioalias.coldate, lastaccessdate, aboutme, views, upvotes, dowalias.colvotes, profileimageurl, emailhash, age, accoualias.coltalias.col from table where locatioalias.col like alias.colx"
+select top alias.col alias.col from table where alias.col like alias.col ;
+"select count(location), location from table group by location order by count(location) desc;"
+select alias.col from table
+select alias.col from table where alias.col <alias.col
+"select top alias.col alias.col*table/viewcoualias.colt as alias.col, alias.col from posts order by alias.col*table/viewcoualias.colt desc"
+select alias.col from table where alias.col between n and n
+select top alias.col creatioalias.coldate from table order by creatioalias.coldate asc
+select top alias.col alias.col from table where alias.col like alias.col aalias.cold alias.col=alias.col order by alias.col desc
+"select alias.col,alias.col from table where posttypealias.col = alias.col aalias.cold alias.col like alias.col aalias.cold alias.col < alias.col"
+"select distinct alias.col , reputation, displayname, websiteurl, aboutme, emailhash, views from table u inner join table c on alias.col = alias.col where alias.col like alias.col"
+select coualias.colt(*) as alias.col from table p joialias.col table t oalias.col alias.col = alias.col where alias.col = alias.col aalias.cold alias.col = alias.col
+select coualias.colt(*) from table where (alias.col > alias.col);
+select alias.col from table where alias.col =alias.col
+"select alias.col, sum(alias.col) from table where alias.col between n and n group by alias.col"
+"select alias.col, alias.col from table where table.alias.col alias.colot like alias.col aalias.cold table.owalias.coleruseralias.col = alias.col"
+select sum(alias.col) from table where alias.col ialias.col ( select parealias.coltalias.col from table where owalias.coleruseralias.col = alias.col aalias.cold posttypealias.col=alias.col aalias.cold creatioalias.coldate > alias.col aalias.cold creatioalias.coldate <= alias.col);
+select alias.col from table group by alias.col order by alias.col
+select alias.col from table where alias.col ialias.col ( select pt.alias.col from table pt where alias.col = alias.col );
+"select row_number() over(order by alias.col desc) as [#], id as [user link], alias.col from table where (lower(location) like x or upper(location) like x ... or location like x or lower(location) like x ... or upper(location) like x ... or location like x) and alias.col >= n order by alias.col desc;"
+select top alias.col alias.col from table
+"select alias.col,parentalias.col from table order by alias.col asc;"
+"select alias.col, alias.col, location, alias.col from table order by alias.col desc"
+"select alias.col, count(alias.col) as count_per_alias.col from table group by alias.col;"
+"select top alias.col alias.col, alias.colame from table"
+select alias.col from table where tealias.colt like alias.col
+select alias.col from table
+select alias.col from table where alias.col like alias.col
+select top alias.col alias.col from table
+select count(*) from table;
+"select count(*) from table where alias.col <= convert(datetime, alias.col )"
+select alias.col from table where alias.col like alias.col;
+select alias.col as alias.col from table where body like x
+"select alias.col as alias.col, alias.col as alias.col from table s"
+"select alias.col, alias.col, alias.col, alias.col from table where alias.col like alias.col"
+select top alias.col alias.col from table where alias.col is alias.colot alias.colull aalias.cold alias.col alias.colot ialias.col (alias.col)
+select alias.col from table where alias.col > alias.col;
+select count(*) from table where alias.col is not null
+select alias.col from table us where lower(location) like x and lower(aboutme) like x order by alias.col desc;
+"select alias.col, alias.col from table select count(alias.col) from table"
+select top alias.col alias.col from table
+select avg(alias.col) from table where alias.col=alias.col aalias.cold owalias.coleruserid=alias.col
+declare @alias.colow datetime set @alias.colow = ( selealias.col top alias.col cast(table as date) as date from posts order by table ); selealias.col @alias.colow;
+"select alias.col(alias.col, alias.col, alias.col()) as alias.col , coualias.colt(*) as alias.col from table alias.colhere alias.col is alias.colot alias.colull group by alias.col(alias.col, alias.col, alias.col()) order by alias.col"
+"select tealias.colt, alias.col as alias.col from table, table where table.alias.col = table.id and table.userid = table.owneruserid and tealias.colt like alias.col order by table.creationdate desc"
+select name from table
+select count(*) from table group by owneruserid having count(owneruserid) < n
+"select alias.col,alias.col,lastaccessdate,alias.col(day,alias.col,lastaccessdate) from table"
+"select top alias.col displayalias.colame, coualias.colt(*) from table group by displayalias.colame"
+select alias.col from table where alias.col = alias.col
+select alias.col from table
+"select top alias.col row_alias.columber() over(order by reputatioalias.col desc) as [#], id as [user lialias.colk], reputatioalias.col, locatioalias.col, age from table where lower(locatioalias.col) like x or upper(locatioalias.col) like x ... order by reputatioalias.col desc;"
+"select top alias.col alias.col, body from table order by creatioalias.coldate;"
+select emailhash from table where alias.col = alias.col
+"select alias.col, alias.col from table"
+select top alias.col alias.col from table where body like x
+"select count(alias.col) as alias.col, sum(alias.col) as alias.col, sum(alias.col) as alias.col from table u"
+select alias.col from table
+"select alias.col, alias.col from table full join table on table.id = table.postid"
+select alias.col from table where alias.col > alias.col
+select alias.col from table where (alias.col like alias.col or alias.col like alias.col ...) and body like alias.col ...
+select count(*) from table where alias.col like alias.col
+"select top alias.col displayalias.colame, reputatioalias.col from table where reputatioalias.col > alias.col"
+select top(alias.col) alias.col from table;
+"select row_number() over(order by alias.col desc) as [#], id as [user link], alias.col from table where lower(location) like x or upper(location) like x ... or location like x and alias.col >= n order by alias.col desc;"
+select count(*) from table where body=xand id>n
+select alias.col from table
+"select top alias.col alias.col, displayalias.colame, reputatioalias.col, locatioalias.col, views, upvotes, dowalias.colvotes, age from table where locatioalias.col like x or locatioalias.col like x ... order by reputatioalias.col desc"
+select count(*) from table
+select count(*) from table where alias.col like alias.col
+"select alias.col, count(*) as alias.col from table pt inner join table t on alias.col = alias.col group by alias.col order by alias.col;"
+select alias.col from table where alias.col = alias.col;
+select location from table where location like x group by location
+"select row_number() over(order by alias.col desc) as [#], id as [user link], alias.col,location from table where location =x and alias.col >n"
+select top alias.col alias.col from table where alias.col=alias.col
+select count(distinct(alias.col)) from table;
+"select alias.col, alias.col, locatioalias.col from table where alias.col = alias.col aalias.cold locatioalias.col = x;"
+selecalias.col alias.col from alias.colable alias.col where alias.col.coualias.colalias.col > alias.col
+"select row_number() over(order by alias.col desc) as [#], id as [user link], alias.col from table where lower(location) like x and alias.col >= n order by alias.col desc;"
+select text as alias.col from table where table.id=alias.col;
+select count(distinct(alias.col)) from table;
+"select distialias.colct alias.col, owalias.colerdisplayalias.colame from table where alias.col = alias.col"
+select alias.col from table where tealias.colt like alias.col;
+select alias.col from table where alias.col = alias.col aalias.cold alias.col like alias.col
+select top(alias.col) alias.col from table
+select top (alias.col) alias.col from table
+"select alias.col as alias.col, alias.col, alias.col as alias.col, alias.col as alias.col from table p joialias.col table pt oalias.col alias.col = p.alias.colid joialias.col table v oalias.col v.alias.col = alias.col joialias.col table vt oalias.col alias.col = v.alias.colid where alias.col = alias.col or p.parealias.coltid = alias.col"
+select top alias.col alias.col from table where owalias.coleruserid ialias.col (alias.col);
+"select top alias.col alias.col, avg(commealias.coltcoualias.colt) as alias.col from table group by alias.col order by alias.col desc"
+"select top alias.col table.id, table.body from table where table.viewcoualias.colt>alias.col"
+select top alias.col body from table where alias.col like alias.col order by alias.col desc
+"select alias.col, alias.col, table from table order by alias.col desc, table asc"
+"select table.alias.col as alias.col, alias.col, alias.col from table where alias.col like alias.col aalias.cold alias.col> alias.col order by alias.col desc"
+"select alias.col, alias.col from table;"
+select top alias.col alias.col from table where table.viewcoualias.colt < alias.col aalias.cold table.viewcoualias.colt > alias.col order by table.viewcoualias.colt desc
+"select alias.col, alias.col, alias.col, alias.col from table"
+select alias.col from table
+"select top alias.col table.id, table.body from table where table.viewcoualias.colt>alias.col"
+select avg(alias.col) from table where alias.col >alias.col aalias.cold alias.col<alias.col;
+select alias.col from table where alias.col < alias.col order by alias.col asc
+select alias.col from table where alias.col like alias.col
+"select date, count(alias.col) from table where name = alias.col group by (datepart(hour, date) n), date order by date"
+"select alias.col, alias.col, location, alias.col from table order by alias.col desc;"
+select sum(alias.col) from table where alias.col > alias.col and lastactivitydate < alias.col
+"select alias.col, coualias.colt(alias.col) from table where alias.col > alias.col aalias.cold alias.col < alias.col group by alias.col order by alias.col"
+select alias.col from table where table_name = x
+select alias.col from table where alias.col like alias.col
+"selecalias.col alias.col, alias.col.coualias.colalias.col, alias.col excerpalias.col from alias.colable alias.col lefalias.col joialias.col alias.colable e oalias.col alias.col.excerpalias.colposalias.colid=alias.col where alias.col.coualias.colalias.col > alias.col"
+select top alias.col alias.col from table
+"select top alias.col table.id, table.body from table where table.viewcoualias.colt>alias.col"
+select alias.col from table where alias.col = alias.col
+select alias.col from table where alias.col ialias.col (select alias.col from table where year(alias.col)>alias.col);
+select alias.col from posts order by table
+select alias.col from table
+"select alias.col, alias.col from table where alias.col > alias.col;"
+select alias.col from table where location like x order by alias.col desc
+select alias.col from table where alias.col(alias.col) = alias.col
+select count(alias.col) from table where alias.col >= alias.col and alias.col <= alias.col;
+select body from table where body like x;
+select alias.col from table
+select top alias.col alias.col from table where coualias.colt > alias.col order by alias.colewid()
+select top alias.col alias.col from table order by alias.col desc;
+select alias.col from table;
+"select row_alias.columber() over(order by alias.col desc) as [#], id as [user lialias.colk], locatioalias.col, alias.col from table where alias.col > alias.col order by alias.col desc;"
+"with table as ( select row_alias.columber() over(order by alias.col desc) as [#], alias.col as [user lialias.colk], u.alias.col, alias.col, (select alias.col(alias.col, alias.col)) alias.col from table t ialias.colalias.coler joialias.col posttable pt oalias.col alias.col = alias.col ialias.colalias.coler joialias.col table p oalias.col alias.col = alias.col ialias.colalias.coler joialias.col table v oalias.col alias.col = alias.col aalias.cold alias.col = alias.col ialias.colalias.coler joialias.col table u oalias.col alias.col = p.owalias.coleruserid where lower(locatioalias.col) like alias.col aalias.cold alias.col ialias.col (alias.colyz) group by alias.col, alias.col, u.alias.col ) select alias.col from table order by alias.col desc ;"
+"select alias.col,alias.col from table"
+select alias.col from table where alias.col is not null and alias.col != alias.col
+select alias.col from table where alias.col like alias.col or body like alias.col and score >n
+select alias.col from table where alias.col=alias.col order by creatioalias.coldate desc
+select coualias.colt(*) as alias.col from table p joialias.col table t oalias.col alias.col = alias.col where alias.col != alias.col
+select top alias.col alias.col from table where table.viewcoualias.colt > alias.col order by table.viewcoualias.colt
+select top(alias.col) displayalias.colame from table;
+"select top alias.col alias.col, alias.col, body, viewcoualias.colt, score, creatioalias.coldate from table where alias.col is alias.colot alias.colull aalias.cold year(creatioalias.coldate) = alias.col aalias.cold moalias.colth(creatioalias.coldate) >= alias.col aalias.cold moalias.colth(creatioalias.coldate) <= alias.col"
+select alias.col from table where alias.col = alias.col aalias.cold alias.col > alias.col;
+"select alias.col as alias.col, body, score from table where alias.col like alias.col and parentalias.col is null"
+"select sum(alias.col) from table as parealias.colt, table as p where alias.col=alias.col aalias.cold p.owalias.coleruserid = alias.col aalias.cold p.parealias.coltid = parealias.colt.id"
+"create table table (userid ialias.colt, alias.columtable ialias.colt) ialias.colsert table select top alias.col table.id, coualias.colt(*) from table ialias.colalias.coler joialias.col table oalias.col table.userid = table.id where table.lastaccessdate >= alias.col group by table.id create table table (userid ialias.colt, alias.columtable ialias.colt) ialias.colsert table select top alias.col table.id, coualias.colt(*) from table ialias.colalias.coler joialias.col table oalias.col table.owalias.coleruserid = table.id where table.lastaccessdate >= alias.col group by table.id"
+select alias.col from table where alias.col = alias.col
+select top alias.col alias.col from table p where alias.col=alias.col aalias.cold alias.col=alias.col aalias.cold p.owalias.coleruserid=alias.col aalias.cold alias.col>alias.col
+select alias.col from table where table.tags like alias.col;
+select alias.col from table where table.tags like alias.col and table.acceptedanswerid is null and table.posttypeid = n and table.creationdate between alias.col and alias.col
+select alias.col from table order by alias.col(alias.col) desc
+"select table.displayname, table.title from table, table where table.owneruserid = table.id and table.alias.col = (select max(alias.col) from table)"
+"select alias.col,body as coalias.coltealias.colt,title, creatioalias.coldate,closeddate,score,lastactivitydate,viewcoualias.colt as alias.colo_of_views,alias.col from table where alias.col like alias.col aalias.cold alias.col = alias.col order by alias.col desc"
+select alias.col from table;
+"select alias.col, alias.col, body from table where alias.col > alias.col"
+"select alias.col, alias.col, location, accountalias.col, websiteurl from table where location in ( select distinct(location) from table where location like x)"
+"select alias.col,sum(alias.col) from table where alias.col > alias.col group by alias.col;"
+select alias.col from table where alias.col like alias.col order by alias.col desc
+"select alias.col, postalias.col, votetypealias.col, useralias.col, alias.col, alias.col from table where postalias.col in (alias.col) order by useralias.col, alias.col, votetypealias.col;"
+"select alias.col as alias.col, body, score from table where alias.col like alias.col"
+"select alias.col,alias.col,alias.col from table where alias.col > alias.col or alias.col like alias.col ..."
+"select alias.col, alias.col, alias.col from table where alias.col > alias.col order by alias.col;"
+"select top alias.col table.id as [post lialias.colk], table.owalias.coleruserid as [user lialias.colk], alias.col from table where alias.col <alias.col aalias.cold alias.col = alias.col order by alias.col asc"
+"select alias.col, count from table where alias.col = alias.col or alias.col = alias.col"
+"select top alias.col alias.col, displayalias.colame, alias.col+dowalias.colalias.col as alias.col, alias.col, dowalias.colalias.col from table order by alias.col desc;"
+select top alias.col alias.col from table where deletioalias.coldate is alias.colot alias.colull aalias.cold owalias.coleruserid=alias.col
+select top alias.col alias.col from table;
+"select alias.col, alias.col from table where alias.col = ( select max(alias.col) from table );"
+select alias.col from table where lower(alias.col) like alias.col or lower(alias.col) like alias.col
+"select alias.col, alias.col, alias.col, location from table where location like x or location like x order by alias.col desc"
+select alias.col from table where alias.col = alias.col;
+select count(*) from table where alias.col like alias.col
+"select table.id, table.title, table.tags from table where table.tags like alias.col;"
+"select alias.col, alias.col, count from table"
+"select alias.col, alias.col, location from table where views > n"
+select top(alias.col) alias.col from table order by reputatioalias.col desc
+select alias.col from table ph where (ph.tabletypeid = alias.col or ph.tabletypeid = alias.col) aalias.cold alias.col = alias.col
+"select distinct alias.col , alias.col, reputation, displayname, websiteurl, aboutme, views from table u inner join table c on alias.col = alias.col where alias.col like alias.col and alias.col like alias.col"
+select alias.col from table
+"select alias.col, alias.col from table where alias.col > alias.col"
+"select alias.col, alias.col from table"
+"select top alias.col alias.col, posttypealias.col, alias.col, alias.col, alias.col, aalias.colswercoualias.colt, favoritecoualias.colt from table as [post lialias.colk] where alias.col is alias.colot alias.colull aalias.cold alias.col = alias.col"
+"select alias.col, text, alias.col as alias.col from table where alias.col = alias.col order by alias.col desc, text asc;"
+"select count(*) ,table from posts group by table having count(*)>n"
+"select top alias.col viewcoualias.colt, table, table.id, table.tagalias.colame from table ialias.colalias.coler joialias.col table oalias.col table.postid = table.parealias.coltid ialias.colalias.coler joialias.col table oalias.col table.id = table.postid where viewcoualias.colt > alias.col"
+select top alias.col alias.col from table where owalias.coleruseralias.col ialias.col ( select top alias.col alias.col from table where reputatioalias.col = alias.col ) aalias.cold posttypealias.col = alias.col order by creatioalias.coldate desc
+"select top alias.col p.creatioalias.coldate, alias.col, alias.col, alias.col from table p where alias.col is alias.colot alias.colull order by p.creatioalias.coldate desc"
+select alias.col from table p ialias.colalias.coler joialias.col table pl oalias.col alias.col = alias.col where alias.col = alias.col
+select alias.col from table where alias.col like alias.col
+select body from table where alias.col=alias.col;
+"select alias.col as alias.col, count(*) as table from table u left join table p on alias.col = p.owneralias.col group by alias.col"
+"select top alias.col alias.col, creatioalias.coldate, owalias.coleruserid, commealias.colt from table;"
+select alias.col from table where alias.col = alias.col
+"select alias.col, alias.col from table;"
